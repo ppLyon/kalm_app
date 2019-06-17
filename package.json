@@ -1,0 +1,8 @@
+{
+  "name": "kalm_app",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.34.0"
+  }
+}
